@@ -11,7 +11,7 @@ th, td {
     border: solid 5px darkblue;
 }
 li[title]:hover {
-    color: orange;
+    color: blue;
     background-color:lightblue;
 }
 li{
